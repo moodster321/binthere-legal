@@ -4,7 +4,7 @@ title: Legal
 
 # Bin There Games — Legal
 
-These documents cover our game **Hack the Planeframe**.
+These documents cover our game **SEVER // ctrl**.
 
 - [Privacy Policy](privacy)
 - [Terms of Service](terms)

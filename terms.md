@@ -8,7 +8,7 @@ title: Terms of Service
 
 These Terms of Service (the "Terms") are an agreement between you and Bin There Games LLC, a
 Florida limited liability company ("Bin There Games", "we", "us"). They cover our game
-**Hack the Planeframe** (the "Game"), including its updates, online play, Steam Workshop
+**SEVER // ctrl** (the "Game"), including its updates, online play, Steam Workshop
 features, Discord features and this website.
 
 By installing, opening or playing the Game, you agree to these Terms. If you don't agree, please

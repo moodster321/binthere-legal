@@ -7,7 +7,7 @@ title: Privacy Policy
 **Effective date:** October 1, 2026
 
 This Privacy Policy explains how Bin There Games LLC ("Bin There Games", "we", "us") handles
-information in connection with our game **Hack the Planeframe** (the "Game"), the Game's Steam
+information in connection with our game **SEVER // ctrl** (the "Game"), the Game's Steam
 and Discord features, and this website (legal.binthere.games).
 
 ## The short version
@@ -113,11 +113,11 @@ sends it anywhere.
 The Game does not upload any of these files. If Steam Cloud saving is turned on for the Game,
 Steam may keep a copy of your saved games in your Steam account, under Valve's privacy policy.
 
-Where the files are:
+They are in the Game's own folder inside:
 
-- **Windows:** `%APPDATA%\Godot\app_userdata\HackThePlaneframe\`
-- **Linux:** `~/.local/share/godot/app_userdata/HackThePlaneframe/`
-- **macOS:** `~/Library/Application Support/Godot/app_userdata/HackThePlaneframe/`
+- **Windows:** `%APPDATA%\Godot\app_userdata\`
+- **Linux:** `~/.local/share/godot/app_userdata/`
+- **macOS:** `~/Library/Application Support/Godot/app_userdata/`
 
 You can delete them at any time; doing so resets your settings and progress.
 
